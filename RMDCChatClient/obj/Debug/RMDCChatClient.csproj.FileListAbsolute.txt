@@ -1,0 +1,25 @@
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatClient\bin\Debug\RMDCChatClient.exe.config
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatClient\bin\Debug\RMDCChatClient.exe
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatClient\bin\Debug\RMDCChatClient.pdb
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatClient\obj\Debug\RMDCChatClient.csprojResolveAssemblyReference.cache
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatClient\obj\Debug\RMDCChatClient.Properties.Resources.resources
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatClient\obj\Debug\RMDCChatClient.csproj.GenerateResource.Cache
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatClient\obj\Debug\RMDCChatClient.exe
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatClient\obj\Debug\RMDCChatClient.pdb
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatClient\obj\Debug\RMDCChatClient.ChatNow.resources
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatClient\obj\Debug\RMDCChatClient.Login.resources
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatClient\obj\Debug\RMDCChatClient.Register.resources
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\bin\Debug\RMDCChatClient.exe.config
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\bin\Debug\RMDCChatClient.exe
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\bin\Debug\RMDCChatClient.pdb
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\bin\Debug\MaterialSkin.dll
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\obj\Debug\RMDCChatClient.ChatRoomForm.resources
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\obj\Debug\RMDCChatClient.Login.resources
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\obj\Debug\RMDCChatClient.Properties.Resources.resources
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\obj\Debug\RMDCChatClient.RegisterForm.resources
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\obj\Debug\RMDCChatClient.csproj.GenerateResource.Cache
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\obj\Debug\RMDCChatClient.exe
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\obj\Debug\RMDCChatClient.pdb
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\obj\Debug\RMDCChatClient.csprojResolveAssemblyReference.cache
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\bin\Debug\MessageCareer.dll
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatClient\bin\Debug\MessageCareer.pdb

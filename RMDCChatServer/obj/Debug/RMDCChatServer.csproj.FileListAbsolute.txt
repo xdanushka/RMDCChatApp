@@ -1,0 +1,18 @@
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatServer\bin\Debug\RMDCChatServer.exe.config
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatServer\bin\Debug\RMDCChatServer.exe
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatServer\bin\Debug\RMDCChatServer.pdb
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatServer\obj\Debug\RMDCChatServer.exe
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatServer\obj\Debug\RMDCChatServer.pdb
+c:\users\eutech\documents\visual studio 2013\Projects\RMDCChatServer\RMDCChatServer\obj\Debug\RMDCChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatServer\RMDCChatServer\bin\Debug\RMDCChatServer.exe.config
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatServer\RMDCChatServer\obj\Debug\RMDCChatServer.exe
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatServer\RMDCChatServer\obj\Debug\RMDCChatServer.pdb
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatServer\bin\Debug\RMDCChatServer.exe.config
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatServer\bin\Debug\RMDCChatServer.exe
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatServer\bin\Debug\RMDCChatServer.pdb
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatServer\bin\Debug\MaterialSkin.dll
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatServer\obj\Debug\RMDCChatServer.exe
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatServer\obj\Debug\RMDCChatServer.pdb
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatServer\obj\Debug\RMDCChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatServer\bin\Debug\MessageCareer.dll
+C:\Users\Lotus\Desktop\Compressed\RMDCChatServer\RMDCChatApp\RMDCChatServer\bin\Debug\MessageCareer.pdb
